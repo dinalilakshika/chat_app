@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="root" prefHeight="650.0" prefWidth="400.0" style="-fx-background-color: #81ecec;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.Controller.SingInController">
+    <children>
+      <ImageView fitHeight="166.0" fitWidth="155.0" layoutX="123.0" layoutY="174.0" pickOnBounds="true">
+         <image>
+            <Image url="@../Assest/chat_724715.png" />
+         </image>
+      </ImageView>
+        <TextField fx:id="txtUserName" layoutX="77.0" layoutY="377.0" prefHeight="31.0" prefWidth="247.0" promptText="User Name" style="-fx-background-radius: 15;" AnchorPane.leftAnchor="77.0" AnchorPane.rightAnchor="76.0" />
+        <JFXButton id="button" layoutX="77.0" layoutY="467.0" onAction="#btnSingInOnAction" prefHeight="31.0" prefWidth="247.0" style="-fx-background-color: #0abde3;" stylesheets="@../Style/Button.css" text="Join Chat">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></JFXButton>
+    </children>
+</AnchorPane>

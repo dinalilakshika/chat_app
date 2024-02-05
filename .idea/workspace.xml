@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62feb724-4cd6-4ff2-8069-9da7e853b196" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/WhatsApp_Image_2024-02-05_at_08.47.04_75508edf-removebg-preview (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/WhatsApp_Image_2024-02-05_at_08.47.04_75508edf-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/WhatsApp_Image_2024-02-05_at_08.47.05_07ececd2-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/WhatsApp_Image_2024-02-05_at_08.47.05_439b63e3-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/WhatsApp_Image_2024-02-05_at_08.47.05_8ea652f3-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/chat_724715.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Assest/send_9918662.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2db75ec1-d3af-4f47-b82e-e4fcbced725e.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2db75ec1-d3af-4f47-b82e-e4fcbced725e/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2db75ec1-d3af-4f47-b82e-e4fcbced725e/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2db75ec1-d3af-4f47-b82e-e4fcbced725e/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2db75ec1-d3af-4f47-b82e-e4fcbced725e/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Controller/MassageFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Controller/MassageFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Controller/SingInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Controller/SingInController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Controller/WelcomeFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Controller/WelcomeFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/LauncherWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/LauncherWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Server/Handler/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Server/Handler/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/Util/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Util/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Style/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Style/Button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/massage_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/massage_form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/singin_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/singin_form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/welcome_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/welcome_form.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2bw4y879UHwdtcGJ4c1Li2RRkVp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/dinalilakshika/Downloads/Chat_Appl",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LauncherWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.LauncherWrapper" />
+      <module name="Chat_Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LauncherWrapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62feb724-4cd6-4ff2-8069-9da7e853b196" name="Changes" comment="" />
+      <created>1707113060477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707113060477</updated>
+      <workItem from="1707113061733" duration="493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
